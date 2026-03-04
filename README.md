@@ -9,7 +9,6 @@ An interactive feature that allows users to ask questions about page content and
 - Quick Start
 - Troubleshooting
 - Security Note
-- Acceptance Criteria
 
 ---
 
